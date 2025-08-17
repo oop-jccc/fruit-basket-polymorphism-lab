@@ -1,4 +1,4 @@
-﻿{
+{
   "name": ".NET High-Performance Environment",
   "image": "mcr.microsoft.com/devcontainers/dotnet:8.0",
   "hostRequirements": {

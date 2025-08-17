@@ -1,6 +1,6 @@
-﻿# fruit-basket-polymorphism-lab
+# fruit-basket-polymorphism-lab
 
-[![.NET CI/CD Pipeline](https://github.com/jccc-oop/fruit-basket-polymorphism-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/jccc-oop/fruit-basket-polymorphism-lab/actions/workflows/ci.yml)
+[![.NET CI/CD Pipeline](https://github.com/oop-jccc/fruit-basket-polymorphism-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/oop-jccc/fruit-basket-polymorphism-lab/actions/workflows/ci.yml)
 
 This repository contains a .NET application with a fully configured development environment for optimal productivity.
 
@@ -38,10 +38,10 @@ The fastest way to get started is using GitHub Codespaces, which provides a full
 ### Using VS Code Tasks
 This repository includes pre-configured VS Code tasks for common operations:
 
-- **Build:** `Ctrl+Shift+P` â†’ "Tasks: Run Task" â†’ "build"
-- **Run:** `Ctrl+Shift+P` â†’ "Tasks: Run Task" â†’ "run"
-- **Clean:** `Ctrl+Shift+P` â†’ "Tasks: Run Task" â†’ "clean"
-- **Watch:** `Ctrl+Shift+P` â†’ "Tasks: Run Task" â†’ "watch" (auto-rebuilds on file changes)
+- **Build:** `Ctrl+Shift+P` → "Tasks: Run Task" → "build"
+- **Run:** `Ctrl+Shift+P` → "Tasks: Run Task" → "run"
+- **Clean:** `Ctrl+Shift+P` → "Tasks: Run Task" → "clean"
+- **Watch:** `Ctrl+Shift+P` → "Tasks: Run Task" → "watch" (auto-rebuilds on file changes)
 
 ### Using Command Line
 ```bash
@@ -75,9 +75,9 @@ dotnet watch run
 
 ```
 FruitBasket/
-â”œâ”€â”€ FruitBasket.csproj    # Project configuration
-â”œâ”€â”€ Program.cs                     # Application entry point
-â””â”€â”€ ...                           # Additional source files
+├── FruitBasket.csproj    # Project configuration
+├── Program.cs                     # Application entry point
+└── ...                           # Additional source files
 ```
 
 ## Development Environment Features
@@ -133,7 +133,7 @@ This project follows standard C# coding conventions:
 
 **VS Code Issues:**
 - Install the C# Dev Kit extension
-- Reload VS Code window: `Ctrl+Shift+P` â†’ "Developer: Reload Window"
+- Reload VS Code window: `Ctrl+Shift+P` → "Developer: Reload Window"
 - Check that .NET is properly installed: `dotnet --version`
 
 **Codespaces Issues:**
