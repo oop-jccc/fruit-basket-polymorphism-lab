@@ -23,6 +23,6 @@
     }
   },
   "forwardPorts": [],
-  "postCreateCommand": "dotnet restore FruitBasket/FruitBasket/FruitBasket.csproj",
+  "postCreateCommand": "dotnet restore ./FruitBasket/FruitBasket.sln",
   "remoteUser": "vscode"
 }
